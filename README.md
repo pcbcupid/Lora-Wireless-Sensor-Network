@@ -11,7 +11,7 @@ We'll walk you through all the stages :
 * [Brainstroming -> Feature Selection](https://www.youtube.com/watch?v=0gfi7CeLzbg)
 * [Features -> Component Selection](https://youtu.be/0gfi7CeLzbg?t=293)
 * [Component -> Schematic Design](https://www.youtube.com/watch?v=nbiwXsXPYxc)
-* Schematic Design -> PCB Design (TBA)
+* [Schematic Design -> PCB Design](https://www.youtube.com/watch?v=FiMsBjr6rtk)
 * PCB -> Mechanical Case Design (TBA)
 * Finished Hardware + Code (TBA)
 * Final Testing! (TBA)
