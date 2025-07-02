@@ -12,9 +12,9 @@ We'll walk you through all the stages :
 * [Features -> Component Selection](https://youtu.be/0gfi7CeLzbg?t=293)
 * [Component -> Schematic Design](https://www.youtube.com/watch?v=nbiwXsXPYxc)
 * [Schematic Design -> PCB Design](https://www.youtube.com/watch?v=FiMsBjr6rtk)
-* PCB -> Mechanical Case Design (TBA)
-* Finished Hardware + Code (TBA)
-* Final Testing! (TBA)
+* [PCB -> Mechanical Case Design](https://youtu.be/7FC-pByCCXM?si=cBypyLcrKBF-iJE6)
+* [Finished Hardware + Code](https://github.com/pcbcupid/Lora-Wireless-Sensor-Network/tree/main/Code)
+* [Final Testing](https://www.youtube.com/watch?v=_qDI99OTmmE)
 
 ### PCB DESIGN
 
