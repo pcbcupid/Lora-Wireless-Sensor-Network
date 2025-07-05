@@ -16287,7 +16287,7 @@
 				)
 			)
 		)
-		(property "Value" "MAX485E"
+		(property "Value" "THVD1406"
 			(at 0 4.05 0)
 			(layer "F.Fab")
 			(uuid "df8cab50-30d0-4c4b-aaca-ee5676c4330e")
@@ -16298,7 +16298,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/thvd1406.pdf?ts=1751614038517&ref_url=https%253A%252F%252Fwww.google.com%252F"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
